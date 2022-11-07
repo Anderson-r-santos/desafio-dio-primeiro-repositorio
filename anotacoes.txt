@@ -1,1 +1,3 @@
 //exercicio e teste dos comandos do git
+
+curso de git finalizado dia 06/11/2022
